@@ -31,6 +31,7 @@ Clone este repositório para o seu computador.
 Abra o arquivo main.py no Visual Studio ou Jupyter Notebook.
 Edite o código para especificar os sites que você deseja abrir e os dados que você deseja preencher nos formulários.
 Execute o código.
+
 Observações:
 
 Este código é um exemplo simples e pode ser adaptado para atender às suas necessidades específicas.
