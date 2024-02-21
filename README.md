@@ -1,4 +1,4 @@
-Automação de Abertura de Sites e Preenchimento Automático
+#Automação de Abertura de Sites e Preenchimento Automático
 
 Este código Python demonstra como automatizar a abertura de sites e o preenchimento automático de formulários usando as bibliotecas Selenium e Pyautogui.
 
@@ -16,7 +16,7 @@ Selenium: Experiência com a biblioteca Selenium para automatizar a interação 
 
 Pyautogui: Familiaridade com a biblioteca Pyautogui para automatizar a interação com o sistema operacional.
 
-O que este código faz:
+#O que este código faz:
 
 Este código automatiza a abertura de sites e o preenchimento de formulários nesses sites. Você pode usar este código para automatizar tarefas como:
 
@@ -30,14 +30,14 @@ Abre automaticamente uma lista de sites pré-definidos.
 Preenche automaticamente formulários em cada site com dados pré-definidos.
 Permite a personalização da lista de sites e dos dados de preenchimento.
 
-Como usar este código:
+#Como usar este código:
 
 Clone este repositório para o seu computador.
 Abra o arquivo main.py no Visual Studio ou Jupyter Notebook.
 Edite o código para especificar os sites que você deseja abrir e os dados que você deseja preencher nos formulários.
 Execute o código.
 
-Observações:
+#Observações:
 
 Este código é um exemplo simples e pode ser adaptado para atender às suas necessidades específicas.
 É recomendável testar o código antes de usá-lo em um ambiente real.
@@ -46,4 +46,4 @@ Links Úteis:
 
 Documentação do Selenium: https://selenium.dev/documentation/
 
-Espero que este código seja útil para você!
+#Espero que este código seja útil para você!
