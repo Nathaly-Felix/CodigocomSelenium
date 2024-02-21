@@ -5,10 +5,15 @@ Este código Python demonstra como automatizar a abertura de sites e o preenchim
 Este projeto foi criado para demonstrar minhas habilidades em:
 
 Desenvolvimento Python: Implementação de scripts Python para automatizar tarefas repetitivas, incluindo suas bibliotecas e frameworks.
+
 Visual Studio: Utilização do Visual Studio como ambiente de desenvolvimento.
+
 Jupyter Notebook: Utilização do Jupyter Notebook para prototipagem e análise de dados.
+
 Automação: Habilidade para automatizar tarefas repetitivas usando scripts Python.
+
 Selenium: Experiência com a biblioteca Selenium para automatizar a interação com navegadores web.
+
 Pyautogui: Familiaridade com a biblioteca Pyautogui para automatizar a interação com o sistema operacional.
 
 O que este código faz:
